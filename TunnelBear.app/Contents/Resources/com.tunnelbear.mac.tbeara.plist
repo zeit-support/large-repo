@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.tunnelbear.mac.tbeara</string>
+	<key>LimitLoadToSessionType</key>
+	<string>Aqua</string>
+	<key>KeepAlive</key>
+	<true/>
+	<key>MachServices</key>
+	<dict>
+		<key>com.tunnelbear.mac.tbeara</key>
+		<true/>
+	</dict>
+	<key>ProgramArguments</key>
+	<array>
+		<string>~/Library/Application Support/TunnelBear/com.tunnelbear.mac.tbeara</string>
+	</array>
+</dict>
+</plist>
